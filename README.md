@@ -52,7 +52,7 @@ I hold a degree in Physics and Electronics with a focus on data analytics.
   - **Technologies Used**: List the tools and concepts used in the project.
 
 ### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Excel](https://sites.google.com/view/lawrence-olowoniyi/project-page/microsoft-excel-project)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the functions and techniques used in the project.
 
