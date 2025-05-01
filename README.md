@@ -31,7 +31,7 @@ I hold a degree in Physics and Electronics with a focus on data analytics.
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Tableau
-- **Project Name**: [SPOTIFY]([link-to-project](https://sites.google.com/view/lawrence-olowoniyi/project-page/tableau))
+- **Project Name**: [SPOTIFY](https://sites.google.com/view/lawrence-olowoniyi/project-page/tableau)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
