@@ -25,13 +25,8 @@ I hold a degree in Physics and Electronics with a focus on data analytics.
 3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
 
-### R
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
-
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [SALES ANALYSIS FOR GOBAL STORE](https://app.powerbi.com/view?r=eyJrIjoiOWEyNjA4MWMtN2RkMi00NGNlLTlhYWYtOGMzOTVkNzNiMmEyIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
@@ -40,10 +35,6 @@ I hold a degree in Physics and Electronics with a focus on data analytics.
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
-### Access
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and tables used in the project.
 
 ### MySQL
 - **Project Name**: [Project Title](link-to-project)
